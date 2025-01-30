@@ -2,8 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Deploying Active Directory and setting up Domain Controller permissions.  <br />
 
 
 
@@ -21,14 +20,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+  
 
 <h2>High-Level Steps</h2>
 
 - Step 1 - Making sure the domain controller is configured properly. 
-- Step 2
-- Step 3
-- Step 4
+- Step 2 - Add roles
+- Step 3 - Set admin user
+- Step 4 - Set member of server. 
 
 <h2>Actions and Observations</h2>
 
